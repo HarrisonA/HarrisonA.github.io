@@ -6,15 +6,17 @@ title: Your idea is worthless...or is it?
 <br>
 A good friend suggests an idea for an app.  
 <br>
+<br>
 You decide to build an app based on that idea.
+<br>
 <br>
 Is that idea worth anything?
 <br>
-
+<br>
 <i>I informally surveyed a few software engineers and got a few answers:</i>
 <br>
 <ol>
-<li>"No!"<li>
+<li>"No!"</li>
 <li>"If they only give the idea, then they are only entitled to a published credit."</li>
 <li>"No money, but maybe a nice dinner and a bottle of wine."</li>
 <li>"If I make millions off the app, I give them a very small percentage or a one-time payment."</li>
