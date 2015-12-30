@@ -4,7 +4,7 @@ title: Your idea is worthless...or is it?
 ---
 <img src="http://www.capitalfm.co.ke/lifestyle/files/2012/07/mobile-cash.png">
 <br>
-A good friend suggests an idea for an app. You decide to build an app based on that idea. Is that idea worth anything?
+<h2>A good friend suggests an idea for an app. You decide to build an app based on that idea. Is that idea worth anything?<h2>
 <br>
 <br>
 <i>I informally surveyed a few software engineers and got a few answers:</i>
@@ -21,6 +21,7 @@ A good friend suggests an idea for an app. You decide to build an app based on t
 <br>
 <h1>What's your thoughts?</h1>
 <br>
+12/28/15
 <br>
 <br>
 <br>
