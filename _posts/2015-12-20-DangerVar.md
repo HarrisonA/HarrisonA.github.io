@@ -1,9 +1,10 @@
-	---
+---
 layout: post
 title: Danger Variables.  Don't Blow Your Stack!
 date: 2015-12-20 00:00:00
 
 ---
+
 A very simple, yet useful trick.
 
 Whenever you are writing a recursive function, you run the risk of 
