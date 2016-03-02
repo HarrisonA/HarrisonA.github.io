@@ -12,6 +12,6 @@ Spotz is a web based MyEAN stack desktop and mobile app that displays available 
 ### Contact me
 
 [radiov@gmail.com](mailto:radiov@gmail.com)
-<a href='http://github.com/HarrisonA'>GitHub</a>
-<a href="http://linkedin.com/in/AdesolaHarrison">LinkedIn</a>
+[http://github.com/HarrisonA](GitHub)
+[http://linkedin.com/in/AdesolaHarrison](LinkedIn)
 

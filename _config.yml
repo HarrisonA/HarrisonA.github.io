@@ -6,7 +6,7 @@
 name: Adesola Harrison
 
 # Short bio or description (displayed in the header)
-description: Fullstack Developer
+description: Fullstack Developer and Real World Problem Solver
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: HarrisonA
   instagram:
-  linkedin:
+  linkedin: AdesolaHarrison
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
