@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Uploading local images using Angular and ng-upload
+date: 2016-02-09 00:00:00
+
 ---
 
 This blog will show you how I did it.  
