@@ -8,8 +8,8 @@ I take great pride in creating things that makes the lives of others easier and 
 
 Spotz is a web based MyEAN stack desktop and mobile app that displays available parking options (on a map) according to date, time and location. With this app, users can locate places to park and avoid parking tickets. Spotz was designed on the frontend with AngularJS, and on the backend with Node/Express and MySql.
 
-A few personal notes:
-I've lived abroad in Panama and Brazil, where I picked up conversational Spanish and Portuguese. I enjoy DJing and have performed at public and private events. My passions include teaching Capoeira and practicing other forms of movement (yoga, body weight exercises, weight lifting).
+_A few personal notes:  
+I've lived abroad in Panama and Brazil, where I picked up conversational Spanish and Portuguese. I enjoy DJing and have performed at public and private events. My passions include teaching Capoeira and practicing other forms of movement (yoga, body weight exercises, weight lifting)._
 
 
 ### Contact me
