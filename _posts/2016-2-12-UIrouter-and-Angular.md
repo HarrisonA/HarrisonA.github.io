@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Displaying multiple views on page load (using Angular and the ui-router)
+title: Displaying multiple Angular views on page load
 date: 2016-2-12 00:00:00
 
 ---
 
-Using ui-router, multiple views can be displayed in a single state.  
+Using the ui-router with Angular, multiple views can be displayed in a single state.  
 This can be done using "relative" naming or "absolute" naming.  This post will
 show one way it can be done using "absolute" naming.
 <br>

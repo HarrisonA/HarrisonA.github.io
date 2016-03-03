@@ -5,16 +5,10 @@ date: 2015-12-20 00:00:00
 
 ---
 
-A very simple, yet useful trick.
-
-Whenever you are writing a recursive function, you run the risk of 
-the recursion never ending and causing a stack overflow.
-<br><br>
-One way to prevent this is to create a "danger" variable.  Essentially, 
-the danger variable is a way to provide an exit from a function that is running in infinite recursion.
+Whenever you are writing a recursive function, you run the risk of the recursion never ending and causing a stack overflow. One way to prevent this is to create a "danger" variable.  Essentially, the danger variable is a way to provide an exit from a function that is running in infinite recursion.
 <br><br>
 
-How it works: 
+How it works:
 <br><br>1) Create a global danger variable and set it equal to zero.
 <br><br>2) Every time you enter the recursive function, increase the count of that variable and check if that count is greater than the amount recursive calls you expect.
 <br>
@@ -37,3 +31,5 @@ var someFunction = function (){
 
 }
 {% endhighlight %}
+
+Note: This technique can also be applied to "while" loops and other forms of code that run the risk of infinitly looping.

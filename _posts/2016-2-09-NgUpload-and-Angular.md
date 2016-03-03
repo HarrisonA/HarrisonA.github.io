@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Uploading local images using Angular and ng-upload
+title: Uploading local images using AngularJS
 date: 2016-02-09 00:00:00
 
 ---
 
-This blog will show you how I did it.  
-<br>
+This post will show you how to upload local images using Angular and ng-upload. A few notes before we dive into the technical details: the code snippets below were added to my existing code, this was part of a MEAN stack app (Angular, Express/Node, MongoDB).
+This is recommended for users who have some minimal experience with AngularJS controllers.
 
-A few notes:
-<br>
-1. The code snippets below were added to my existing code.
-<br>
-2. This was part of a MEAN stack app (Angular, Express/Node, MongoDB).
-<br>
-3. This is recommended for users who have some minimal experience with AngularJS controllers.
-<br>
-4. Ng-upload will need to be installed: <a href="https://www.npmjs.com/package/ng-upload">ng-upload</a>
+Ng-upload will need to be installed: <a href="https://www.npmjs.com/package/ng-upload">ng-upload</a>
 <br>
 <br>
 HTML code that allows a user to upload a local image from their computer:  
