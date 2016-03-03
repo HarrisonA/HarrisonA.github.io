@@ -8,8 +8,6 @@ I love solving real world problems and puzzles with software. I take great pride
 
 Spotz is a web based MyEAN stack desktop and mobile app that displays available parking options (on a map) according to date, time and location. With this app, users can locate places to park and avoid parking tickets. Spotz was designed on the frontend with AngularJS, and on the backend with Node/Express and MySql.
 
-http://spotz.herokuapp.com/
-
 ### Contact me
 
 [radiov@gmail.com](mailto:radiov@gmail.com)
