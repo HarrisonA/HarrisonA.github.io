@@ -17,7 +17,7 @@ HTML code that allows a user to upload a local image from their computer:
 
 
   <h4>Upload on file select</h4>
-  <div>          
+  <div>
      <button type="file" ngf-select="uploadFiles($file, $invalidFiles)"
         accept="image/*" style="color:black; border-radius: 5px;" ngf-max-height="10000" ngf-max-size="20MB">
         Select File
