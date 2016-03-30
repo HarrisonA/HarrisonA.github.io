@@ -13,8 +13,7 @@ Ng-upload will need to be installed: <a href="https://www.npmjs.com/package/ng-u
 <br>
 HTML code that allows a user to upload a local image from their computer:  
 
-{% raw %}
-
+{% highlight HTML %}
 
   <h4>Upload on file select</h4>
   <div>
@@ -23,29 +22,29 @@ HTML code that allows a user to upload a local image from their computer:
         Select File
     </button>
   </div>
-{% endraw %}
+{% endhighlight %}
 Note: The attributes "ngf-max-height" "ngf-max-size" allow you to set limits on image height and size. Once the pic is selected, "ngf-select" calls the function "uploadFiles" with the arguments (the user selected file and a potential invalid file message).
 
 <br>
 <br>
 To display the results of the file upload, include the following in your HTML file:
 <br>
-{% raw %}
+{% highlight HTML %}
 
  Uploaded File:
-  <div style="font:smaller">{{f.name}} {{errFile.name}} {{errFile.$error}} {{errFile.$errorParam}}
+  <div style="font:smaller">{% raw %}{{f.name}} {{errFile.name}} {{errFile.$error}} {{errFile.$errorParam}}{% endraw %}
     <span class="progress" ng-show="f.progress >= 0">
-      <div style="width:{{f.progress}}%"
+      <div style="width:{% raw %}{{f.progress}}{% endraw %}%"
       ng-bind="f.progress + '%'"></div>
     </span>
   </div>
   {{errorMsg}}<br><br>
 
   <!-- Display the the image returned from the server -->
-  <img ng-src="data:image/jpg;base64,{{image}}">
+  <img ng-src="data:image/jpg;base64,{% raw %}{{image}}{% endraw %}">
   <br>
 
-{% endraw %}
+{% endhighlight %}
 
 <br>
 Angular controller code for the above HTML:
