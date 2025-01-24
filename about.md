@@ -9,7 +9,4 @@ I take great pride in creating things that makes the lives of others easier and 
 I've lived abroad in Panama and Brazil, where I picked up conversational Spanish and Portuguese. I enjoy DJing and have performed at public and private events. My passions include teaching Capoeira and practicing other forms of movement (yoga, body weight exercises, weight lifting).
 
 
-### Contact me
-
-[radiov@gmail.com](mailto:radiov@gmail.com)
 
